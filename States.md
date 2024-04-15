@@ -37,7 +37,6 @@ Nasarawa
 
 ---
 
-
 Ebube(Add Niger to Zamfara) <br/>
 Niger
 Ogun
@@ -49,10 +48,10 @@ Rivers
 Sokoto
 Taraba
 Zamfara
-FCT 
+FCT
 
 Lagos state
-   Her Cities by Adeyemi Ayodele
+Her Cities by Adeyemi Ayodele
 
 Badagry
 Epe
@@ -66,12 +65,24 @@ Shomolu
 Ogun state
    Her cities by Onyejose Fortune
 
-   Ago-Iwoye 
-   Ayetoro
-   Ifo 
-   Sagamu 
-   Sango 
-   Ota 
-   Abeokuta 
-   Agbara 
-   Ajebo 
+Ago-Iwoye
+Ayetoro
+Ifo
+Sagamu
+Sango
+Ota
+Abeokuta
+Agbara
+Ajebo
+<br/>
+Oyo state
+Her cities by Jokanola Abdullateef
+
+Ibadan
+Iseyin
+Ogbomosho
+Egbeda
+Ilora
+Ado-Awaye
+Oyo
+Fiditi
